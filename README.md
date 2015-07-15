@@ -1,6 +1,6 @@
 # phase-0-gps-1
 
-`git clone`
+**git clone**
 
     create a new `*local*` copy of the repo
 
