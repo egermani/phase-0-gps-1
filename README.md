@@ -2,23 +2,23 @@
 
 `git clone`
 
-    create a new \*\*local\*\* copy of the repo
+    create a new *local*` copy of the repo
 
 `touch`
 
-    initialize a \*\*blank\*\* file
+    initialize a `*blank*` file
 
 `git add`
 
-    add a file to the \*\*staging\*\*
+    add a file to the `*staging*`
 
 `git commit`
 
-    create a \*commit\*
+    create a `**commit**`
 
 `git push`
 
-    send the \*commit\* up to the remote
+    send the `**commit**` up to the remote
 
 `git co -b`
 
