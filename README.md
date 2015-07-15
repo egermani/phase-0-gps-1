@@ -2,7 +2,7 @@
 
 `git clone`
 
-    create a new *local*` copy of the repo
+    create a new `*local*` copy of the repo
 
 `touch`
 
